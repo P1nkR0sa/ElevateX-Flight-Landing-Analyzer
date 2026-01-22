@@ -7,13 +7,14 @@ It displays:
 - Route
 - Pilot
 - All landings
-- - FPM
+  - FPM
   - G Forces
   - Bounces
   - Ground Speed
   - Wind info (direction speed)
   - Aicraft heading/bank/pitch
 
+##
 1. Install Tampermonkey in the browser of your choice
 2. Create a new script, insert the code from the "ElevateX Flight Landing Analyzer-2.0.user.js" file
 3. Save and enable
