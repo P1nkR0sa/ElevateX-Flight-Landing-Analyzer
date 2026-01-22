@@ -23,8 +23,10 @@ It displays:
 
 Either
 4. Go to "https://map.elevatex.app/"
-6. Click on a flight thats already landed
-7. Click "Analyze current flight" 
+5. Click on a flight thats already landed
+6. Click "Analyze current flight" 
+
+or
 
 4. Open your flight URL (something like) "https://map.elevatex.app/XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX"
 5. Click "Analyze current flight" 
