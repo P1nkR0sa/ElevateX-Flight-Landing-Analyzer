@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         ElevateX Flight Landing Analyzer
 // @namespace    http://tampermonkey.net/
-// @version      2.0
+// @version      1.0
 // @description  Analyze flight landing data from ElevateX with wind visualization
-// @author       You
+// @author       PinkRosa
 // @match        https://map.elevatex.app/*
 // @grant        GM_xmlhttpRequest
 // @connect      api.elevatex.app
