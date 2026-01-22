@@ -26,5 +26,5 @@ Either
 4. Open your flight URL (something like) "https://map.elevatex.app/XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX"
 5. Click "Analyze current flight" 
 
-!(https://github.com/P1nkR0sa/ElevateX-Flight-Landing-Analyzer/blob/main/Example_flight_1.png?raw=true)
+!(https://github.com/P1nkR0sa/ElevateX-Flight-Landing-Analyzer/blob/main/Example_flight_1.png)
 
