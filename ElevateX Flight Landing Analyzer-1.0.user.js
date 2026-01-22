@@ -265,7 +265,7 @@
             landingEvents.forEach((event, index) => {
                 const args = JSON.parse(event.args);
 
-                const fpm = args.verticalSpeed * 3.27027; //This might only work on my system but because I dont know how Elevatex pulls the vertical speed (maybe fps dependant) to get an accurate value you need to multiply by this magic number
+                const fpm = args.verticalSpeed * 3.27027; //This might only work on my system but because I dont know how Elevatex pulls the vertical speed (maybe fps dependant) to get an accurate value (on my system) you need to multiply by this magic number
                 const groundSpeedKnots = args.groundSpeed * 1.94384; //converts ground speed from m/s to knots
                 const gForce = args.gforce;
                 const runwayHeading = args.heading;
