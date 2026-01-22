@@ -7,7 +7,7 @@ It displays:
 - Route
 - Pilot
 - All landings
-  - FPM
+  - FPM (I do not know how accurate compared to the programm this is (see code comment))
   - G Forces
   - Bounces
   - Ground Speed
