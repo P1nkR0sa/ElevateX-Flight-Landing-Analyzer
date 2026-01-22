@@ -20,16 +20,16 @@ It displays:
 1. Install Tampermonkey in the browser of your choice
 2. Create a new script, insert the code from the "ElevateX Flight Landing Analyzer-2.0.user.js" file
 3. Save and enable
-
-Either
-4. Go to "https://map.elevatex.app/"
-5. Click on a flight thats already landed
-6. Click "Analyze current flight" 
+4. Either
+   
+- Go to "https://map.elevatex.app/"
+- Click on a flight thats already landed
+- Click "Analyze current flight" 
 
 or
 
-4. Open your flight URL (something like) "https://map.elevatex.app/XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX"
-5. Click "Analyze current flight" 
+- Open your flight URL (something like) "https://map.elevatex.app/XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX"
+- Click "Analyze current flight" 
 
 ![Example flight image](https://github.com/P1nkR0sa/ElevateX-Flight-Landing-Analyzer/blob/main/Example_flight_1.png)
 
