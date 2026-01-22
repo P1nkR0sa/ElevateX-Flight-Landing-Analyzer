@@ -31,10 +31,7 @@ Either
 
 ![Example flight image](https://github.com/P1nkR0sa/ElevateX-Flight-Landing-Analyzer/blob/main/Example_flight_1.png)
 
-## 
-Future plans
-##
-
+## Future plans
 Idk, maybe move it away from a tampermonkey script to something easier. 
 The website will probaby be fixed before that anyway
 
